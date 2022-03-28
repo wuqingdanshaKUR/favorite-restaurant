@@ -5,8 +5,8 @@ node.js version: v16.14.2
 express version: v4.16.4  
 
 安裝與執行步驟 (installation and execution)：  
-1.開啟terminal，下載本專案至本機電腦  
-2.輸入 $ cd favorite-restaurant 進入專案資料夾  
+1.開啟terminal，下載本專案並解壓縮至本機電腦  
+2.輸入 $ cd favorite-restaurant-main 進入專案資料夾  
 3.確認是否有事先安裝好nvm，如果還沒的話請先點擊連結下載安裝 https://github.com/coreybutler/nvm-windows/releases  
 4.輸入 $ nvm install 14.16.0 安裝node.js，再輸入 $ nvm use 14.16.0 確認要使用的版本  
 5.輸入 $ npm install express@4.16.4 安裝express  
