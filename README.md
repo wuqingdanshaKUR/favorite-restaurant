@@ -1,8 +1,9 @@
 # favorite-restaurant
 環境建置與需求 (prerequisites)：  
 nvm version: 1.1.9  
-node.js version: v16.14.2  
-express version: v4.16.4  
+node.js: v16.14.2  
+express: v4.16.4  
+express-handlebars: v3.0.0  
 
 安裝與執行步驟 (installation and execution)：  
 1.開啟terminal，下載本專案並解壓縮至本機電腦  
